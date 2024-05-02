@@ -1,0 +1,26 @@
+name|type|data|command|depend|seed|path|time|size|bytes|format|repository|iteration|parent|children|seconds|warnings|error
+add_keys|function|69d211919d0a3f6a|||||||||||||||
+create_database|function|6e09f782b04e2cca|||||||||||||||
+create_scooter_sessions|function|6f8c59f04985251f|||||||||||||||
+create_scooters|function|d120017533d5fc98|||||||||||||||
+create_sessions|function|7f751aef04cd03cd|||||||||||||||
+create_users|function|881d31a935072181|||||||||||||||
+create_vehicle_sessions|function|9668fe5305010910|||||||||||||||
+create_vehicle_states|function|8509fa7f7a9060a0|||||||||||||||
+create_vehicles|function|d299f977e17a1cf9|||||||||||||||
+generate_sessions|function|5514c792f046377b|||||||||||||||
+import_to_sqlite|function|01aa381b6e390aa0|||||||||||||||
+keys_added|stem|47d71c81f458fb17|a3734f21492e8733|dbf46c97750213b1|1609804560||t19845.4872237947s|ac45463db19e2cbe|48|rds|local|vector|||2.69|cannot remove file dasc_keys.db, reason Permission denied. Closing open result set, pending rows. Closing open result set, pending rows. Closing open result set, pending rows. Closing open result set, pending rows|
+scooter_sessions|stem|c2b19809f74a8a27|bbfd149350d278b3|a5a348dac8a1eb92|-1516515902||t19844.2234286368s|57a5ce2d19eddda7|1293|rds|local|vector|||0.02||
+scooter_sessions_uploaded|stem|47d71c81f458fb17|fe960c894efd6b57|c05d2cf1e9bdc95c|1116284828||t19844.2234369385s|ac45463db19e2cbe|48|rds|local|vector|||0.71||
+scooters|stem|a4f53a7826cc28f3|5d606357bf794910|b7681690777cb9db|2160946||t19843.743457443s|e0f188f8ef12a304|11959|rds|local|vector|||0||
+scooters_uploaded|stem|47d71c81f458fb17|722700a5c025d30e|05629eed45c9dd31|-873383246||t19843.743461929s|ac45463db19e2cbe|48|rds|local|vector|||0.11||
+upload_sqlite|function|dd83fcc7d1a284b9|||||||||||||||
+users|stem|e6e1f60e15a29a3d|cb6e13b12ddf7229|db8e28dc10bc6593|1792757328||t19843.7434562859s|1714831a2caeac65|11937|rds|local|vector|||0.75|package ggplot2 was built under R version 4.3.3. package odbc was built under R version 4.3.3|
+users_uploaded|stem|04dc3dc2061f0778|94113c1a264f7f7e|9f7ede3cbde60b8e|-1614742368||t19844.2678297838s|710c4f02beb47ff7|57|rds|local|vector|||0.14||
+vehicle_sessions|stem|b0effbb48bce3a8d|0e4f0bd3103dc21f|5be550dfaecc4689|-1961646771||t19844.2485947531s|305fcb187bf840ee|1292|rds|local|vector|||0||
+vehicle_sessions_uploaded|stem|04dc3dc2061f0778|366045b28b958361|5a6226fa62b335b7|-1037571534||t19844.2678319662s|710c4f02beb47ff7|57|rds|local|vector|||0.01||
+vehicle_states|stem|792bfc26853122a8|a8b2c92b13d50011|82fc42c43906c378|-1768974383||t19844.2485957717s|fbc412edc2ed3281|1176|rds|local|vector|||0||
+vehicle_states_uploaded|stem|04dc3dc2061f0778|ba09223d3311d97d|916cab40118fe447|-701960897||t19844.267832341s|710c4f02beb47ff7|57|rds|local|vector|||0.03||
+vehicles|stem|5e3dc5e7110fe3ec|cdcd2282ab8ea3ad|98ebef64d55d72c7|-1693970855||t19844.2485942819s|4ceed6d1b3e8e734|12635|rds|local|vector|||0.95|package ggplot2 was built under R version 4.3.3. package odbc was built under R version 4.3.3|
+vehicles_uploaded|stem|04dc3dc2061f0778|27155488d84e1a18|aafdf0566b2dee4c|-404915970||t19844.2678314923s|710c4f02beb47ff7|57|rds|local|vector|||0.13||
